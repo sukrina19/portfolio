@@ -7,7 +7,8 @@ export const personalData = {
 
   resume: 'sukrina resume.pdf', // Add your PDF file to the "data" folder and specify its filename here
   
-  techStacks: [
+  techStacks: 
+    
     // Add your tech stack icons to the "icons" folder and specify their filenames here
     { name: 'HTML', icon: 'html icon.png' },
     { name: 'CSS', icon: 'css-3 icon.png' },
